@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Information+Technology+Student)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Check+out+my+repositories!)](https://git.io/typing-svg)  
 
 
 ## Hi, I'm Martina Chloe Ablanida! 👋
