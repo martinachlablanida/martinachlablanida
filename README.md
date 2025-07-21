@@ -4,12 +4,12 @@
 # Hi, I'm Martina Chloe Ablanida! 👋
 
 🎓 **Information Technology Student** at **Polytechnic University of the Philippines**  
-💡 Learning **Web Development** and **Cybersecurity**  
+💡 Building knowledge in **Web Development** and **Cybersecurity**  
 📍 Based in the **Philippines**
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Technical Proficiencies
 
 ### 💻 Programming Languages
 
