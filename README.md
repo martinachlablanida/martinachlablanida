@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Technology Stack
+## 🔧 Technical Skills
 
 ### 💻 Programming Languages
 
