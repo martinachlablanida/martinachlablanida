@@ -4,7 +4,7 @@
 # Hi, I'm Martina Chloe Ablanida! 👋
 
 🎓 **Information Technology Student** at **Polytechnic University of the Philippines**  
-💡 Building knowledge in **Web Development** and **Cybersecurity**  
+💡 Building skills in **Web Development**, **UI Design**, and **Cybersecurity**  
 📍 Based in the **Philippines**
 
 ---
@@ -24,6 +24,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40">](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="40">](https://netbeans.apache.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40">](https://www.figma.com/)
+
 
 ---
 
