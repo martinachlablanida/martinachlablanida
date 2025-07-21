@@ -1,9 +1,7 @@
 ## Hi, I'm Martina Chloe Ablanida! 👋
-
-## About Me
-🎓 Information Technology Student at Polytechnic University of the Philippines
-💻 Learning Java, Python, Web Development, and Cybersecurity
-📍 Based in Philippines
+- 🎓 Information Technology Student at Polytechnic University of the Philippines
+- 💻 Learning Java, Python, Web Development, and Cybersecurity
+- 📍 Based in Philippines
 
 
 - 🔭 I’m currently working on ...
